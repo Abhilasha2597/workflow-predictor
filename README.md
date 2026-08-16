@@ -2,7 +2,7 @@
 
 A .NET 10 backend that accepts public or private GitHub repositories, scans repository structure and relevant source/config evidence, predicts missing/high-value test cases with AI, generates test code, predicts a GitHub Actions workflow, generates Copilot instructions, produces local artifacts/logs, publishes to GitHub, dispatches workflows and analyzes GitHub Actions logs.
 
-## No Ollama
+## Open API
 This project uses OpenAI when `OpenAI:ApiKey` is configured. If no API key is configured, deterministic fallback analysis/test predictions are returned. No Ollama is required.
 
 ## Public repository
