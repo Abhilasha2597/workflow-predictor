@@ -1,7 +1,0 @@
-**/bin/
-**/obj/
-**/node_modules/
-**/dist/
-backend/AIWorkflow.Api/Artifacts/*
-.env
-*.user
